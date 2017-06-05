@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-
-<widget xmlns = "http://www.w3.org/ns/widgets"
-xmlns:gap = "http://phonegap.com/ns/1.0"
-id = "com.phonegap.example10"
-version = "1.0.0">
-
-<name> App10 Guia de Carreras </name>
-
-<description>
-Aplicacion que muestra las carreras universitarias
-</description>
-
-<author href="https://build.phonegap.com" email="evelyn.gutierrez.cbtis16@gmail.com">
-Evelyn Gutierrez Aguilar
-</author>
-
-<!--Personaliza la aplicacion y plataforma --> 
+	
+	<widget xmlns ="http://www.w3.org/ns/widgets"
+	xmlns:gap="http://phonegap.com/ns/1.0"
+	id ="com.phonegap.example10"
+	version ="1.0.0">
+	
+	<name> Guia de Carreras..</name>
+	
+	<description> 
+	Muestra algunas carreras univercitarias.
+	</description> 
+	
+	<author href="https://build.phonegap.com" email="evelyn.gutierrez.cbtis16@gmail.com">
+	Evelyn Gutierez Aguilar 4g
+	</author>
+	
+	<!--Personaliza la aplicacion y plataforma --> 
 	<preference name="orientation" value="default"/> 
 	<!-- <preference name="orientation" value="portrait"/>
 	<preference name="orientation" value="landscape"/>--> 
