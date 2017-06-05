@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>28</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visor1</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>lines,dribbles,brick,seven,blur,domino,fade,stack</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/gentle/</ImageTemplate>
+            <ImageTemplateName>Gentle</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>J:/DAM/Tercer Parcial/app-10/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>J:/DAM/Tercer Parcial/app-10</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>EB Garamond</TemplateFont>
+            <TemplateName>gentle</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>J:/DAM/Tercer Parcial/app-10/imagenes/images (1).jpg</url>
+                <title>images (1)</title>
+                <filesize>13349</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Tercer Parcial/app-10/imagenes/images (2).jpg</url>
+                <title>images (2)</title>
+                <filesize>9895</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Tercer Parcial/app-10/imagenes/images (3).jpg</url>
+                <title>images (3)</title>
+                <filesize>8965</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Tercer Parcial/app-10/imagenes/images.jpg</url>
+                <title>images</title>
+                <filesize>8400</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Tercer Parcial/app-10/imagenes/img_3_15.jpg</url>
+                <title>img</title>
+                <filesize>564366</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Tercer Parcial/app-10/imagenes/ing-en-sistemas-computacionales.jpg</url>
+                <title>sistemascomputacionales</title>
+                <filesize>626655</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Tercer Parcial/app-10/imagenes/SISTEMAS.png</url>
+                <title>SISTEMAS</title>
+                <filesize>503648</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Tercer Parcial/app-10/imagenes/sistemasElectronicosCom.jpg</url>
+                <title>sistemas</title>
+                <filesize>25870</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Tercer Parcial/app-10/imagenes/1_35_1.jpg</url>
+                <title>ingenieriacumputacional </title>
+                <filesize>38373</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
